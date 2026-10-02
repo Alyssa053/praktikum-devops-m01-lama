@@ -5,5 +5,3 @@ __pycache__/
 *.log
 app.log
 ringkasan-log.txt
-app.log
-ringkasan-log.txt
